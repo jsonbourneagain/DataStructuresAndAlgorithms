@@ -17,41 +17,21 @@ namespace HasPalindromePermutation
         {
             // Check if any permutation of the input is a palindrome
 
-            var length = theString.Length;
+            var unpairedChar = new HashSet<char>();
 
-            if (length == 0)
+            foreach (var c in theString)
             {
-                return true;
-            }
-            Dictionary<char, Int32> frequency = new Dictionary<char, int>();
-
-            foreach (var item in theString)
-            {
-                if (frequency.ContainsKey(item))
+                if (unpairedChar.Contains(c))
                 {
-                    frequency[item]++;
+                    unpairedChar.Remove(c);
                 }
                 else
                 {
-                    frequency.Add(item, 1);
+                    unpairedChar.Add(c);
                 }
             }
 
-            if (length % 2 == 0)
-            {
-                if (frequency.Values.Any(v => v % 2 != 0))
-                    return false;
-                else
-                    return true;
-            }
-            else
-            {
-                if (frequency.Values.Count(v => v % 2 != 0) > 1)
-                    return false;
-                else
-                    return true;
-            }
-
+            return unpairedChar.Count <= 1;
         }
     }
 }
