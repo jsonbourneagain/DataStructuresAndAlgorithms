@@ -1,0 +1,11 @@
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\bin\Debug\netcoreapp3.1\WordCloudData.exe
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\bin\Debug\netcoreapp3.1\WordCloudData.deps.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\bin\Debug\netcoreapp3.1\WordCloudData.runtimeconfig.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\bin\Debug\netcoreapp3.1\WordCloudData.runtimeconfig.dev.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\bin\Debug\netcoreapp3.1\WordCloudData.dll
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\bin\Debug\netcoreapp3.1\WordCloudData.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\obj\Debug\netcoreapp3.1\WordCloudData.csprojAssemblyReference.cache
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\obj\Debug\netcoreapp3.1\WordCloudData.AssemblyInfoInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\obj\Debug\netcoreapp3.1\WordCloudData.AssemblyInfo.cs
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\obj\Debug\netcoreapp3.1\WordCloudData.dll
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\WordCloudData\obj\Debug\netcoreapp3.1\WordCloudData.pdb

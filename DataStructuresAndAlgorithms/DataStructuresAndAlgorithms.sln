@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTables", "HashTables\HashTables.csproj", "{045B74B5-7F77-4355-950A-E81BCF33B2E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasPalindromePermutation", "HasPalindromePermutation\HasPalindromePermutation.csproj", "{A0655FBA-074B-4DF9-8F30-7E69BBD56FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HasPalindromePermutation", "HasPalindromePermutation\HasPalindromePermutation.csproj", "{A0655FBA-074B-4DF9-8F30-7E69BBD56FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCloudData", "WordCloudData\WordCloudData.csproj", "{FCCED23E-4D4C-4006-A583-1B3C388D4295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A0655FBA-074B-4DF9-8F30-7E69BBD56FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0655FBA-074B-4DF9-8F30-7E69BBD56FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0655FBA-074B-4DF9-8F30-7E69BBD56FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCED23E-4D4C-4006-A583-1B3C388D4295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCED23E-4D4C-4006-A583-1B3C388D4295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCED23E-4D4C-4006-A583-1B3C388D4295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCED23E-4D4C-4006-A583-1B3C388D4295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
