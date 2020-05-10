@@ -22,7 +22,7 @@ namespace TopScores
                 return unorderedScores;
             }
 
-            int[] intermediateSortedArr = new int[highestPossibleScore];
+            int[] intermediateSortedArr = new int[highestPossibleScore + 1];
 
             //int[] orderedScores = new int[unorderedScores.Length];
 
