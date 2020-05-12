@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HasPalindromePermutation\\HasPalindromePermutation.csproj",
-      "projectName": "HasPalindromePermutation",
-      "projectPath": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HasPalindromePermutation\\HasPalindromePermutation.csproj",
+      "projectUniqueName": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\AppleStock\\AppleStock.csproj",
+      "projectName": "AppleStock",
+      "projectPath": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\AppleStock\\AppleStock.csproj",
       "packagesPath": "C:\\Users\\lpandey\\.nuget\\packages\\",
-      "outputPath": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HasPalindromePermutation\\obj\\",
+      "outputPath": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\AppleStock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

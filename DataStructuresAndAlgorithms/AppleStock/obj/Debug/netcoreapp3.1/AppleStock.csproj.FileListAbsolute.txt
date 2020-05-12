@@ -1,0 +1,12 @@
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.exe
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.deps.json
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.runtimeconfig.json
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.runtimeconfig.dev.json
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.dll
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.pdb
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.csproj.CoreCompileInputs.cache
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.AssemblyInfoInputs.cache
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.AssemblyInfo.cs
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.dll
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.pdb
+D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.genruntimeconfig.cache

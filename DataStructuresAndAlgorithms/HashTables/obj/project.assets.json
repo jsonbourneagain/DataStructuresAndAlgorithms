@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\": {}
+    "C:\\Users\\lpandey\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSAPractice\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HashTables\\HashTables.csproj",
+      "projectUniqueName": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HashTables\\HashTables.csproj",
       "projectName": "HashTables",
-      "projectPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSAPractice\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HashTables\\HashTables.csproj",
-      "packagesPath": "C:\\Users\\Lavakesh Pandey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lavakesh Pandey\\Desktop\\DSAPractice\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HashTables\\obj\\",
+      "projectPath": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HashTables\\HashTables.csproj",
+      "packagesPath": "C:\\Users\\lpandey\\.nuget\\packages\\",
+      "outputPath": "D:\\APersonal\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\HashTables\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lavakesh Pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTables", "HashTables\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HasPalindromePermutation", "HasPalindromePermutation\HasPalindromePermutation.csproj", "{A0655FBA-074B-4DF9-8F30-7E69BBD56FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCloudData", "WordCloudData\WordCloudData.csproj", "{FCCED23E-4D4C-4006-A583-1B3C388D4295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordCloudData", "WordCloudData\WordCloudData.csproj", "{FCCED23E-4D4C-4006-A583-1B3C388D4295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopScores", "TopScores\TopScores.csproj", "{1310246D-D5CA-4314-AE31-BDE9B1CDAC36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopScores", "TopScores\TopScores.csproj", "{1310246D-D5CA-4314-AE31-BDE9B1CDAC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleStock", "AppleStock\AppleStock.csproj", "{B8FE7E7F-2334-4753-837A-F4E0E0406B2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1310246D-D5CA-4314-AE31-BDE9B1CDAC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1310246D-D5CA-4314-AE31-BDE9B1CDAC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1310246D-D5CA-4314-AE31-BDE9B1CDAC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FE7E7F-2334-4753-837A-F4E0E0406B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FE7E7F-2334-4753-837A-F4E0E0406B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FE7E7F-2334-4753-837A-F4E0E0406B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FE7E7F-2334-4753-837A-F4E0E0406B2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
