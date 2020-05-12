@@ -6,8 +6,8 @@ namespace AppleStock
     {
         static void Main(string[] args)
         {
-            var actual = GetMaxProfit(new int[] { 1, 5, 3, 2 });
-            var expected = 4;
+            var actual = GetMaxProfit(new int[] { 9, 7, 4, 1 });
+            var expected = -2;
             Console.WriteLine("Hello World!");
         }
 
@@ -16,18 +16,20 @@ namespace AppleStock
             // Calculate the max profit
             if (stockPrices.Length < 2)
             {
-                throw new ArgumentException("stockPrices array must have 2 or more elements.");
+                throw new ArgumentException("Getting a profit requires at least 2 prices.", nameof(stockPrices));
             }
 
-            int runningMaxProfit = 0;
+            int runningMaxProfit = stockPrices[1] - stockPrices[0];
             int runningMinPrice = stockPrices[0];
 
-            foreach (var price in stockPrices)
+            for (int i = 1; i < stockPrices.Length; i++)
             {
+                int price = stockPrices[i];
+
                 runningMaxProfit = Math.Max(runningMaxProfit, price - runningMinPrice);
                 runningMinPrice = Math.Min(runningMinPrice, price);
-            }
 
+            }
             return runningMaxProfit;
         }
     }

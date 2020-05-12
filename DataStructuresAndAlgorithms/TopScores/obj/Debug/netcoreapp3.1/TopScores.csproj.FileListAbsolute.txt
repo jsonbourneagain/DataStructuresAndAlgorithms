@@ -4,7 +4,6 @@ C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStr
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\bin\Debug\netcoreapp3.1\TopScores.runtimeconfig.dev.json
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\bin\Debug\netcoreapp3.1\TopScores.dll
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\bin\Debug\netcoreapp3.1\TopScores.pdb
-C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\obj\Debug\netcoreapp3.1\TopScores.csprojAssemblyReference.cache
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\obj\Debug\netcoreapp3.1\TopScores.AssemblyInfoInputs.cache
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\obj\Debug\netcoreapp3.1\TopScores.AssemblyInfo.cs
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\TopScores\obj\Debug\netcoreapp3.1\TopScores.dll

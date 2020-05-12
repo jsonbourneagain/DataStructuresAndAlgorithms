@@ -10,3 +10,14 @@ D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\
 D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.dll
 D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.pdb
 D:\APersonal\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.genruntimeconfig.cache
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.exe
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.deps.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.runtimeconfig.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.runtimeconfig.dev.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.dll
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\bin\Debug\netcoreapp3.1\AppleStock.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.csprojAssemblyReference.cache
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.AssemblyInfoInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.AssemblyInfo.cs
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.dll
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\AppleStock\obj\Debug\netcoreapp3.1\AppleStock.pdb
