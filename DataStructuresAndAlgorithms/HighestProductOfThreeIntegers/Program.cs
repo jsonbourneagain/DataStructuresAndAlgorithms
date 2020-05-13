@@ -29,23 +29,13 @@ namespace HighestProductOfThreeIntegers
             {
                 var current = arrayOfInts[i];
 
-                if (current * lowestProductOf2 > highestProductOf3)
-                {
-                    highestProductOf3 = current * lowestProductOf2;
-                }
-                if (current * highestProductOf2 > highestProductOf3)
-                {
-                    highestProductOf3 = current * highestProductOf2;
-                }
+                highestProductOf3 = Math.Max(highestProductOf3, current * lowestProductOf2);
 
-                if (highest * current > highestProductOf2)
-                {
-                    highestProductOf2 = highest * current;
-                }
-                if (lowest * current < lowestProductOf2)
-                {
-                    lowestProductOf2 = lowest * current;
-                }
+                highestProductOf3 = Math.Max(current * highestProductOf2, highestProductOf3);
+
+                highestProductOf2 = Math.Max(highest * current, highestProductOf2);
+
+                lowestProductOf2 = Math.Min(lowest * current, lowestProductOf2);
 
                 highest = Math.Max(highest, current);
                 lowest = Math.Min(lowest, current);
