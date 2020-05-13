@@ -6,7 +6,8 @@ namespace HighestProductOfThreeIntegers
     {
         static void Main(string[] args)
         {
-            var actual = HighestProductOf3(new int[] { -10, -10, 1, 3, 4 });
+            //var actual = HighestProductOf3(new int[] { -10, -10, 1, 3, 4 });
+            var actual = HighestProductOf3(new int[] { -5, -1, -3, -2 });
 
             Console.WriteLine("Hello World!");
         }
@@ -29,13 +30,12 @@ namespace HighestProductOfThreeIntegers
             {
                 var current = arrayOfInts[i];
 
-                highestProductOf3 = Math.Max(highestProductOf3, current * lowestProductOf2);
+                highestProductOf3 = Math.Max(highestProductOf3, Math.Max(current * lowestProductOf2, current * highestProductOf2));
 
-                highestProductOf3 = Math.Max(current * highestProductOf2, highestProductOf3);
+                highestProductOf2 = Math.Max(highestProductOf2, Math.Max(highest * current, lowest * current));
 
-                highestProductOf2 = Math.Max(highest * current, highestProductOf2);
+                lowestProductOf2 = Math.Min(lowestProductOf2, Math.Min(lowest * current, highest * current));
 
-                lowestProductOf2 = Math.Min(lowest * current, lowestProductOf2);
 
                 highest = Math.Max(highest, current);
                 lowest = Math.Min(lowest, current);
