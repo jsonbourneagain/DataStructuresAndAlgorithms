@@ -8,3 +8,4 @@ C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStr
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\HighestProductOfThreeIntegers\obj\Debug\netcoreapp3.1\HighestProductOfThreeIntegers.AssemblyInfo.cs
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\HighestProductOfThreeIntegers\obj\Debug\netcoreapp3.1\HighestProductOfThreeIntegers.dll
 C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\HighestProductOfThreeIntegers\obj\Debug\netcoreapp3.1\HighestProductOfThreeIntegers.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\HighestProductOfThreeIntegers\obj\Debug\netcoreapp3.1\HighestProductOfThreeIntegers.csprojAssemblyReference.cache
