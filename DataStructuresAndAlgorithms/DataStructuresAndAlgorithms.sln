@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleStock", "AppleStock\Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighestProductOfThreeIntegers", "HighestProductOfThreeIntegers\HighestProductOfThreeIntegers.csproj", "{A3C2AFA0-6E12-4FF8-A89C-594304E9FE35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfAllIntsExceptAtIndex", "ProductOfAllIntsExceptAtIndex\ProductOfAllIntsExceptAtIndex.csproj", "{00E33611-7662-4DD6-8740-E1F77D172784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfAllIntsExceptAtIndex", "ProductOfAllIntsExceptAtIndex\ProductOfAllIntsExceptAtIndex.csproj", "{00E33611-7662-4DD6-8740-E1F77D172784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InPlaceShuffle", "InPlaceShuffle\InPlaceShuffle.csproj", "{43D31A16-8654-4D7A-B0B1-24B904E07DCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{00E33611-7662-4DD6-8740-E1F77D172784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E33611-7662-4DD6-8740-E1F77D172784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E33611-7662-4DD6-8740-E1F77D172784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D31A16-8654-4D7A-B0B1-24B904E07DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D31A16-8654-4D7A-B0B1-24B904E07DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D31A16-8654-4D7A-B0B1-24B904E07DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D31A16-8654-4D7A-B0B1-24B904E07DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\bin\Debug\netcoreapp3.1\InPlaceShuffle.exe
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\bin\Debug\netcoreapp3.1\InPlaceShuffle.deps.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\bin\Debug\netcoreapp3.1\InPlaceShuffle.runtimeconfig.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\bin\Debug\netcoreapp3.1\InPlaceShuffle.runtimeconfig.dev.json
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\bin\Debug\netcoreapp3.1\InPlaceShuffle.dll
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\bin\Debug\netcoreapp3.1\InPlaceShuffle.pdb
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\obj\Debug\netcoreapp3.1\InPlaceShuffle.AssemblyInfoInputs.cache
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\obj\Debug\netcoreapp3.1\InPlaceShuffle.AssemblyInfo.cs
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\obj\Debug\netcoreapp3.1\InPlaceShuffle.dll
+C:\Users\Lavakesh Pandey\Desktop\DSAPractice\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\InPlaceShuffle\obj\Debug\netcoreapp3.1\InPlaceShuffle.pdb
